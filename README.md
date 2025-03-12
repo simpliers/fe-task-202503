@@ -2,8 +2,8 @@
 
 ## Amaç
 
-API isteklerinin verimli bir şekilde yönetilmesi, UI yaklaşımının ölçülmesi ve Reactivity konusunda yeteneklerinizi
-ölçmektir.
+API isteklerinin verimli bir şekilde yönetilmesi, UI yaklaşımının ölçülmesi ve Reactivity konusunda yeteneklerinizin
+ölçülmesidir.
 
 ## Zorunluluklar
 
